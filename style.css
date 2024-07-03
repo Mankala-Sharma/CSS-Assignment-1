@@ -1,0 +1,44 @@
+body{
+    font-size: large;
+}
+.rd-heading{
+    color: red;
+    
+}
+.gr-heading{
+    color:rgb(49, 235, 49);
+}
+
+.linethrough{
+    text-decoration: line-through;
+}
+.background{
+    background-color: yellow;
+}
+.itallic{
+    font-style: italic;
+}
+.margin{
+    margin-top: 25px; 
+    margin-bottom: 25px;
+}
+.underline{
+    text-decoration: underline;
+}
+.letter-space{
+ color: brown;
+ letter-spacing: 5px;
+}
+.bold{
+    font-weight: bold;
+}
+
+.brown-font{
+    color: brown;
+}
+.big-font{
+    font-size: 22px;
+}
+.small-font{
+    font-size: xx-small;
+}
